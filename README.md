@@ -1,4 +1,4 @@
-# Kenan Yayla - Codeproben
+# Kenan Yayla - Java Codeproben
 
 In dieser Git-Repository finden Sie Quellcode Auszüge aus verschiedenen Java-Applikationen, die ich programmiert habe. Es sind keine lauffähigen Programme, da Sie den kompletten Quellcode benötigen. Die Auszüge sollen meine Programmierfähigkeiten demonstrieren. Falls Sie an den kompletten Quellcode interessiert sind,  so melden Sie sich  bitte auf meiner Webseite https://www.kenan-yayla.de
 
